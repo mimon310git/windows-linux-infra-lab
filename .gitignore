@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+# Screenshots added manually
+docs/screenshots/*.png
+!docs/screenshots/README.md
